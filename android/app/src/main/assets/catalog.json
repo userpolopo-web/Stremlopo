@@ -1,0 +1,114 @@
+[
+  {
+    "id": "open-sintel",
+    "title": "Sintel",
+    "synopsis": "Uma jovem atravessa terras desconhecidas em busca do pequeno dragão que se tornou seu amigo. Uma aventura sobre amizade, perda e coragem.",
+    "genre": "Animação • Fantasia",
+    "year": 2010,
+    "duration": 15,
+    "poster": "file:///android_asset/artwork/sintel.webp",
+    "backdrop": "file:///android_asset/artwork/sintel_scene.webp",
+    "sources": [
+      {
+        "url": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",
+        "format": "mkv"
+      }
+    ],
+    "attribution": "© Blender Foundation | durian.blender.org",
+    "license": "CC BY 3.0",
+    "evidence": "https://durian.blender.org/sharing/",
+    "kind": "movie",
+    "rights": {
+      "holder": "© Blender Foundation | durian.blender.org",
+      "license": "CC BY 3.0",
+      "evidence": "https://durian.blender.org/sharing/",
+      "embedded_allowed": true,
+      "verified_at": "2026-10-10",
+      "note": "Obra completa; manter créditos originais. Sinopse em português escrita para o catálogo. Sem anúncios ou cobrança."
+    }
+  },
+  {
+    "id": "open-big-buck-bunny",
+    "title": "Big Buck Bunny",
+    "synopsis": "O dia tranquilo de um coelho gigante muda quando três pequenos encrenqueiros resolvem provocá-lo. Uma comédia animada cheia de personalidade.",
+    "genre": "Animação • Comédia",
+    "year": 2008,
+    "duration": 10,
+    "poster": "file:///android_asset/artwork/bunny.webp",
+    "backdrop": "file:///android_asset/artwork/bunny_scene.webp",
+    "sources": [
+      {
+        "url": "https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4",
+        "format": "mp4"
+      }
+    ],
+    "attribution": "© Blender Foundation | www.bigbuckbunny.org",
+    "license": "CC BY 3.0",
+    "evidence": "https://peach.blender.org/about/",
+    "kind": "movie",
+    "rights": {
+      "holder": "© Blender Foundation | www.bigbuckbunny.org",
+      "license": "CC BY 3.0",
+      "evidence": "https://peach.blender.org/about/",
+      "embedded_allowed": true,
+      "verified_at": "2026-10-10",
+      "note": "Obra completa; manter créditos originais. Sinopse em português escrita para o catálogo. Sem anúncios ou cobrança."
+    }
+  },
+  {
+    "id": "open-tears-of-steel",
+    "title": "Tears of Steel",
+    "synopsis": "Em uma Amsterdam do futuro, um grupo de cientistas tenta salvar o mundo de robôs que ameaçam a humanidade. Ação real encontra efeitos visuais em uma história de ficção científica.",
+    "genre": "Ficção científica • Ação",
+    "year": 2012,
+    "duration": 12,
+    "poster": "file:///android_asset/artwork/steel.webp",
+    "backdrop": "file:///android_asset/artwork/steel.webp",
+    "sources": [
+      {
+        "url": "https://media.xiph.org/tearsofsteel/tears_of_steel_1080p.webm",
+        "format": "webm"
+      }
+    ],
+    "attribution": "© Blender Foundation | mango.blender.org",
+    "license": "CC BY 3.0",
+    "evidence": "https://mango.blender.org/about/",
+    "kind": "movie",
+    "rights": {
+      "holder": "© Blender Foundation | mango.blender.org",
+      "license": "CC BY 3.0",
+      "evidence": "https://mango.blender.org/about/",
+      "embedded_allowed": true,
+      "verified_at": "2026-10-10",
+      "note": "Obra completa; manter créditos originais. Sinopse em português escrita para o catálogo. Sem anúncios ou cobrança."
+    }
+  },
+  {
+    "id": "open-elephants-dream",
+    "title": "Elephants Dream",
+    "synopsis": "Dois personagens exploram um universo surreal de máquinas e passagens misteriosas. Uma viagem que coloca suas visões de mundo em conflito.",
+    "genre": "Animação • Ficção científica",
+    "year": 2006,
+    "duration": 11,
+    "poster": "file:///android_asset/artwork/dream_poster.webp",
+    "backdrop": "file:///android_asset/artwork/dream.webp",
+    "sources": [
+      {
+        "url": "https://download.blender.org/ED/elephantsdream-480-h264-st-aac.mov",
+        "format": "mov"
+      }
+    ],
+    "attribution": "© Blender Foundation / Netherlands Media Art Institute | orange.blender.org",
+    "license": "CC BY 2.5",
+    "evidence": "https://orange.blender.org/blog/creative-commons-license-2/",
+    "kind": "movie",
+    "rights": {
+      "holder": "© Blender Foundation / Netherlands Media Art Institute | orange.blender.org",
+      "license": "CC BY 2.5",
+      "evidence": "https://orange.blender.org/blog/creative-commons-license-2/",
+      "embedded_allowed": true,
+      "verified_at": "2026-10-10",
+      "note": "Obra completa; manter créditos originais. Sinopse em português escrita para o catálogo. Sem anúncios ou cobrança."
+    }
+  }
+]
