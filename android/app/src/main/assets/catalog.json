@@ -7,7 +7,7 @@
     "year": 2010,
     "duration": 15,
     "poster": "file:///android_asset/artwork/sintel.webp",
-    "backdrop": "file:///android_asset/artwork/sintel_scene.webp",
+    "backdrop": "file:///android_asset/artwork/sintel.webp",
     "sources": [
       {
         "url": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",

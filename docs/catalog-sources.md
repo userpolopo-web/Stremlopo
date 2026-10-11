@@ -4,7 +4,7 @@ Os quatro títulos têm capas e sinopses incluídas no aplicativo. Sinopses escr
 
 | Obra | Licença e evidência do titular | Origem do vídeo | Imagens |
 |---|---|---|---|
-| Sintel | CC BY 3.0; https://durian.blender.org/sharing/ | https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv | https://durian.blender.org/news/movie-poster/ ; poster e `here_be_dwagons.jpg` |
+| Sintel | CC BY 3.0; https://durian.blender.org/sharing/ | https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv | https://durian.blender.org/news/movie-poster/ ; `sintel_poster.jpg` |
 | Big Buck Bunny | CC BY 3.0; https://peach.blender.org/about/ | https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4 | https://peach.blender.org/media-gallery/ ; `poster_bunny_big.jpg` e `bbb-splash.png` |
 | Tears of Steel | CC BY 3.0; https://mango.blender.org/about/ | https://media.xiph.org/tearsofsteel/tears_of_steel_1080p.webm ; Xiph indicado na página oficial de download | https://mango.blender.org/production/film-poster/ ; `tos-poster-540x800.jpg` |
 | Elephants Dream | CC BY 2.5; https://orange.blender.org/blog/creative-commons-license-2/ | https://download.blender.org/ED/elephantsdream-480-h264-st-aac.mov | https://media.xiph.org/ED/ED-poster.png e https://orange.blender.org/media-gallery/ ; `s3_both.jpg` |
