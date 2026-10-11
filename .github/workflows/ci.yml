@@ -37,7 +37,6 @@ jobs:
           path: android/app/build/outputs/apk/debug/app-debug.apk
   preview:
     runs-on: ubuntu-latest
-    needs: android
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
@@ -62,8 +61,8 @@ jobs:
           script: |
             gradle --no-daemon --project-dir android connectedDebugAndroidTest
             mkdir -p preview
-            adb pull /sdcard/Android/data/com.stremlopo.app/files/stremlopo-home.png preview/stremlopo-home.png
-            adb pull /sdcard/Android/data/com.stremlopo.app/files/stremlopo-filmes.png preview/stremlopo-filmes.png
+            adb pull /sdcard/stremlopo-home.png preview/stremlopo-home.png
+            adb pull /sdcard/stremlopo-filmes.png preview/stremlopo-filmes.png
       - uses: actions/upload-artifact@v4
         with:
           name: Stremlopo-interface
