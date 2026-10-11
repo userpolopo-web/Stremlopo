@@ -1,0 +1,26 @@
+name: Download APK
+on:
+  push:
+    paths:
+      - '.github/workflows/deliver-apk.yml'
+  workflow_dispatch:
+permissions:
+  actions: read
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          github-token: ${{ github.token }}
+          repository: userpolopo-web/Stremlopo
+          run-id: 38102488187
+          name: Stremlopo-APK-debug
+          path: apk
+      - name: Publish tested Android APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mv apk/app-debug.apk apk/Stremlopo-0.2.apk
+          gh release create v0.2.0 apk/Stremlopo-0.2.apk --repo userpolopo-web/Stremlopo --target 9815ecd6b90fedb460d82da7a372dca4016cd1d5 --title "Stremlopo 0.2 — APK Android" --notes "APK de teste para Android 8 ou superior. Interface preta e cinza, catálogo inicial com quatro filmes de licença aberta e reprodução dentro do aplicativo. Instale o arquivo Stremlopo-0.2.apk abaixo. Compilação e testes verificados no workflow 38102488187." --prerelease
